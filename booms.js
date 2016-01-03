@@ -70,7 +70,7 @@ $(document).ready(function () {
         }
     
         // CZAS JEDNEGO WIERSZA = 10000ms
-        setTimeout(booms, 5000);
+        setTimeout(booms, 10000);
     }
     
     booms();
