@@ -67,7 +67,7 @@ var rzeczy = [
         ["wybuchała", "bomba na pokładzie volga-aviaexpress 1353", "wybuchała", "bomba na pokładzie siberia airlines 1047"],
         ["pierwszy samochód", "wybuchał w sercu osiedla bab al-shariq", "drugi samochód", "wybuchał w sercu osiedla bab al-shariq"],
         ["eksplodowała", "bomba na starym rynku w szarm el-szejk", "eksplodowała", "bomba w hotelu moevenpick w szarm el-szejk"],
-        ["pierwsza samobójczyni", "wysadzał się w bagdackim meczecie buratha", "druga samobójczyni", "wysadzała się w bagdackim meczecie buratha"],
+        ["pierwsza samobójczyni", "wysadzała się w bagdackim meczecie buratha", "druga samobójczyni", "wysadzała się w bagdackim meczecie buratha"],
         ["wybuchała", "bomba w zachodnim bagdadzie", "wybuchała", "bomba we wschodnim bagdadzie"],
         ["pierwszy samobójca", "wysadzał się przed meczetem w chanakin", "drugi samobójca", "wysadzał się przed meczetem w chanakin"],
         ["zamachowiec", "wysadzał się w restauracji ethiopian village w kampali", "zamachowiec", "wysadzał się w klubie rugby kyadondo"],
