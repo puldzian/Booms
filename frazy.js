@@ -1,6 +1,6 @@
 var rzeczy = [
         ["oglądałem pokemony", "oglądałem uśmiechniętą mysz, która pika jak serce"],
-        ["grałem na pegasusie", "grałem w dziesięc gier na jednym kartridżu"],
+        ["grałem na pegasusie", "grałem w dziesięć gier na jednym kartridżu"],
         ["układałem klocki lego", "układałem wysoką wieżę, budowałem swój świat"],
         ["wiązałem najki air force 1", "wiązałem buty, miałem pod nogami świat"],
         ["grałem na xboksie 360", "grałem w reżyserską wersję halo 3, zabijałem złych"],
