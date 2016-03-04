@@ -17,9 +17,9 @@ var rzeczy = [
         ["jadłem laysy czerwona papryka", "jadłem czipsy, kaleczyłem nimi język i dziąsła"],
         ["jadłem laysy klasyczne solone", "jadłem czipsy, nakładałem je na język jak chleb"],
         ["ugniatałem ciastolinę play-doh", "formowałem z masy słońce, książyc i psa"],
-        ["grałem w minecrafta", "budowałem portal, żeby wejść do piekła"],
+        ["grałem w minecrafta", "budowałem portal, żeby wkroczyć do piekła"],
         ["grałem w mortal kombat", "chciałem być dobry, więc rozdawałem ciosy"],
-        ["grałem w the sims 3", "sprzedawałem drzwi i okna, żeby mieć na schody"],
+        ["grałem w the sims 3", "sprzedawałem okna i drzwi, żeby mieć na schody"],
         ["grałem w gta vice city", "strzelałem do ludzi, żeby zabić czas"],
         ["grałem w half-life", "byłem naukowcem, który ratował planetę"],
         ["grałem w world of warcraft", "zbierałem doświadczenie, zabijałem bestie"],
@@ -34,13 +34,14 @@ var rzeczy = [
         ["układałem klocki cobi", "układałem dom i ogród, budowałem swój świat"],
         ["układałem klocki playmobil", "układałem komisariat policji, budowałem swój świat"],
         ["żułem gumę mamba", "miałem mambę, ty miałaś, oni mieli"],
-        ["grałem w lego gwiezdne wojny", "rozbijałem roboty, które strzelały mi w serce"]
+        ["grałem w lego gwiezdne wojny", "rozbijałem roboty, które strzelały mi w serce"],
+        ["grałem w dwarf fortress", "budowałem świat, który będę mógł zniszczyć"]
     ],
     bomby = [
         ["pierwszy samolot", "uderzał w północną wieżę world trade center", "drugi samolot", "uderzał w południową wieżę world trade center"],
         ["eksplodowały", "dwa pociągi na madryckiej stacji atocha", "eksplodowały", "dwa pociągi za madrycką stacją atocha"],
         ["wybuchały", "bomby w londyńskim metrze linii piccadilly", "wybuchały", "bomby w londyńskim autobusie routemaster"],
-        ["wybuchały", "bomby w jazdzyckiej al-kahtanijji", "wybuchały", "bomby w jazydzkiej dżazirze"],
+        ["wybuchały", "bomby w jazydzckiej al-kahtanijji", "wybuchały", "bomby w jazydzkiej dżazirze"],
         ["tamilskie tygrysy", "porywały policjantów z batticaloa", "tamilskie tygrysy", "mordowały policjantów z batticaloa"],
         ["eksplodowały", "bomby na przystanku w as-saura", "eksplodowały", "bomby w stolicy, a później całym iraku"],
         ["barykadowano", "widzów kina cinema rex w abadanie", "podpalano", "widzów kina cinema rex w abadanie"],
