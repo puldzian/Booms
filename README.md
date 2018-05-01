@@ -4,7 +4,7 @@ Maszyna literacka bazująca na wierszach Maćka Taranka z tomiku repetytorium. A
 
 Generator live > ["booms"](http://rozdzielchleb.pl/kody/booms)
 
-"booms" w Chlebie > ["booms"](http://rozdzielchleb.pl/booms/)
+"booms" w Rozdzielczości Chleba > ["booms"](http://rozdzielchleb.pl/booms/)
 
 "booms" w "Techstach" > ["protest-song w javascripcie"](http://techsty.art.pl/?p=2078)
 
